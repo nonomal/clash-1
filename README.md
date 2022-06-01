@@ -1,2 +1,2 @@
-# clash
-clash for linux 下载即用
+# clash for linux 一键使用
+
