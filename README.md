@@ -6,7 +6,7 @@
 `git clone https://github.com/herobrine19/clash.git`
 3. `cd clash`
 4. 根据订阅链接(假设为`https://xxx`)下载yaml文件
-`wget https://xxx&client=clash -O config.yaml`
+`wget https://xxx\&client\=clash -O config.yaml`
 5. 运行clash
 `./clash`
 6. 设置系统代理
